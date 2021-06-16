@@ -5,7 +5,7 @@
   "files": ["dist/*"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ProjectMirador/mirador"
+    "url": "https://github.com/ProjectMirador/mirador2"
   },
   "license": "Apache-2.0",
   "devDependencies": {
